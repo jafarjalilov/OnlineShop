@@ -32,7 +32,7 @@ class Cart(object):
         self.save()
     
     def save(self):
-        self.session.modefied = True
+        self.session.modified = True
 
     def remove(self, product):
         """

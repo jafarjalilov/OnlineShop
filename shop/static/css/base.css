@@ -208,6 +208,12 @@ ul.errorlist {
   margin-bottom: 8px;
 }
 
+.cart-img {
+  width: 100%;
+  height: 250px;
+  object-fit: contain;
+}
+
 .product-detail {
   text-align: justify;
 }
