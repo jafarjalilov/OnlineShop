@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 django = "*"
 pillow = "*"
+celery = "*"
+braintree = "==3.59.0"
 
 [dev-packages]
 
